@@ -22,7 +22,7 @@ The HTML file in this repository creates a fun and tasty webpage featuring Cupca
 1. **Clone or Download:**
    - Clone this repository to your local machine using the command:
      ```
-     git clone https://github.com/your-username/cupcake-ipsum-html.git
+     git clone https://github.com/zeeshan9546/html-projects.git
      ```
    - Or download the ZIP file and extract it to your preferred location.
 
